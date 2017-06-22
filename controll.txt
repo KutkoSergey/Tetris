@@ -1,0 +1,6 @@
+Key "Right" - game element to move to the right
+Key "Left" - game element to move to the left
+Key "Down" - hasten the fall of the playing element
+Key "Up" - turn the game element
+Key "Space" - turn on/off pause
+
